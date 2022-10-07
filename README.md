@@ -1,4 +1,14 @@
-## To run the project, is necessary to create a local database.
+## Bar Shop Problem
+
+En el mercado actual es usual ver soluciones tecnológicas basadas en
+tiendas digitales con el fin de llegar a los clientes de forma más sencilla y
+exponer los productos a una gran cartera de prospectos que podrían
+convertirse en clientes reales de la empresa, La idea es desarrollar un
+sistema que consta de dos módulos, un módulo de visualización para los
+clientes donde se listaran las botellas de vino que el Bar Shop ofrece con
+sus respectivos precios y otro de gestión de los productos que se visualizan.
+
+## Instructions
 
 Uses MYSQL as a DB Driver.
 
